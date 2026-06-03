@@ -104,27 +104,6 @@ kosakata JUKUGO
 それでは、発表を始めます。(Sore dewa, happyou wo hajimemasu)Artinya: "Kalau begitu, saya akan memulai presentasinya."
 
 
-**Berikut**: Berperan sebagai penunjuk (kata tunjuk/demonstratif) yang mengacu pada poin-poin atau teks yang terletak di bawahnya.<br>
-
-**adalah**: Kata kerja kopula (penghubung) yang berfungsi untuk mendefinisikan atau menjelaskan subjek.<adalah>
-
-
-1. Berdasarkan Fungsi atau Isinya (Modus)<br>
-Jenis ini ditentukan berdasarkan tujuan komunikasi dari pembicara:
-
-* Kalimat Deklaratif (Berita): Berfungsi memberikan informasi atau pernyataan tanpa mengharapkan umpan balik. (Contoh: Saya sedang belajar koding.)<br>
-
-* Kalimat Interogatif (Tanya): Berfungsi untuk meminta informasi atau jawaban. (Contoh: Di mana letak repositori itu?)<br>
-
-* Kalimat Imperatif (Perintah): Berfungsi memberikan instruksi, komando, atau larangan. (Contoh: Jalankan perintah ini di terminal!)<br>
-
-* Kalimat Eksklamatif (Seruan): Berfungsi menyatakan perasaan yang kuat atau kagum. (Contoh: Wah, cepat sekali performa skrip ini!)<br>
-
-
-
-2. Berdasarkan Jumlah Klausa (Struktur)<br>
-Jenis ini ditentukan oleh kuantitas pola subjek-predikat di dalamnya:KKKKalimat
-Kalimatalimatalimatalimatlimat Tunggal (Simpleks): Hanya memiliki satu klausa (satu subjek dan satu predikat). (Contoh: Termux memproses data.)
 
 
 
