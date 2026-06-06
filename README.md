@@ -87,6 +87,10 @@ utf-16
 %E7%99%BA
 <br>
 
+[食](https://jisho.org/search/%E9%A3%9F%20%23kanji)
+%E9%A3%9F
+<br>
+
 
 kosakata JUKUGO
 
