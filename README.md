@@ -107,7 +107,7 @@ kosakata JUKUGO
 
 それでは、発表を始めます。(Sore dewa, happyou wo hajimemasu)Artinya: "Kalau begitu, saya akan memulai presentasinya."
 
-
+愛液
 
 
 
