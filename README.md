@@ -91,6 +91,11 @@ utf-16
 %E9%A3%9F
 <br>
 
+[召](https://jisho.org/search/%E5%8F%AC%20%23kanji)
+%E5%8F%AC
+<br>
+
+
 
 kosakata JUKUGO
 
