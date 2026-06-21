@@ -95,6 +95,9 @@ utf-16
 %E5%8F%AC
 <br>
 
+[飯](https://jisho.org/search/%E9%A3%AF%20%23kanji)
+%E9%A3%AF
+<br>
 
 
 kosakata JUKUGO
