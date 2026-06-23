@@ -99,6 +99,9 @@ utf-16
 %E9%A3%AF
 <br>
 
+[読](https://jisho.org/search/%E8%AA%AD%20%23kanji)
+%E8%AA%AD
+<br>
 
 kosakata JUKUGO
 
