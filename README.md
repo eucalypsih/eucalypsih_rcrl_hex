@@ -55,52 +55,51 @@ utf-16
 <br>
 
 [翻](https://jisho.org/search/%E7%BF%BB%20%23kanji)
-%E7%BF%BB-7ffb
+%E7%BF%BB-7ffb hon 
 [kanji.reader.bz](https://kanji.reader.bz/en/stroke/%E7%BF%BB)
 [kakijun.com](https://kakijun.com/c/7ffb.html)
 <br>
 
 
 [訳](https://jisho.org/search/%E8%A8%B3%20%23kanji)
-%E8%A8%B3
+%E8%A8%B3 yaku 
 [kanji.reader.bz](https://kanji.reader.bz/en/stroke/%E8%A8%B3)
 <br>
 
 
 [済](https://jisho.org/search/%E6%B8%88%20%23kanji)
-%E6%B8%88
-[]()
+%E6%B8%88 zu
 <br>
 
 
 [表](https://jisho.org/search/%E8%A1%A8%20%23kanji)
-%E8%A1%A8
+%E8%A1%A8 
 <br>
 
 
 [示](https://jisho.org/search/%E7%A4%BA%20%23kanji)
-%E7%A4%BA
+%E7%A4%BA ji
 <br>
 
 
 [発](https://jisho.org/search/%E7%99%BA%20%23kanji)
-%E7%99%BA
+%E7%99%BA hyo
 <br>
 
 [食](https://jisho.org/search/%E9%A3%9F%20%23kanji)
-%E9%A3%9F
+%E9%A3%9F ta
 <br>
 
 [召](https://jisho.org/search/%E5%8F%AC%20%23kanji)
-%E5%8F%AC
+%E5%8F%AC me
 <br>
 
 [飯](https://jisho.org/search/%E9%A3%AF%20%23kanji)
-%E9%A3%AF
+%E9%A3%AF han
 <br>
 
 [読](https://jisho.org/search/%E8%AA%AD%20%23kanji)
-%E8%AA%AD
+%E8%AA%AD yo
 <br>
 
 kosakata JUKUGO
