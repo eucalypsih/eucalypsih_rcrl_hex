@@ -83,7 +83,7 @@ utf-16
 
 
 [発](https://jisho.org/search/%E7%99%BA%20%23kanji)
-%E7%99%BA hyo
+%E7%99%BA hap
 <br>
 
 [食](https://jisho.org/search/%E9%A3%9F%20%23kanji)
