@@ -73,7 +73,7 @@ utf-16
 
 
 [表](https://jisho.org/search/%E8%A1%A8%20%23kanji)
-%E8%A1%A8 
+%E8%A1%A8 hyō
 <br>
 
 
