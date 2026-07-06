@@ -102,6 +102,12 @@ utf-16
 %E8%AA%AD yo
 <br>
 
+[聴](https://jisho.org/search/%E8%81%B4%20%23kanji)
+%E8%81%B4 ki
+<br>
+
+
+
 kosakata JUKUGO
 
 翻訳済み diterjemahkan Hon'yaku-zumi e7bfbbe8a8b3e6b888e381bf [ 英語の訳 ] Terjemahan Bahasa Inggris
